@@ -3,55 +3,6 @@ button{
     all: unset;
 }
 
-/**debug**/
-.cg-bgcolorheader{
-    background-color: #2c3e50;
-}
-
-.cg-colormaintop{
-    background-color: #1abc9c;
-}
-
-
-.cg-debugaltezza1{
-    background-color:#ba4b63;
-}
-
-.cg-debugaltezza2{
-    background-color:#1ea4b6;
-}
-
-.cg-debugaltezza3{
-    background-color: #140f0f;
-}
-
-.cg-debugaltezza4{
-    background-color: #1c83c1;
-}
-
-.cg-debugaltezza5{
-    background-color: #0e38b5;
-}
-
-.cg-debugaltezza6{
-    background-color: #ccb2a3;
-}
-
-.cg-bgmain{
-    background-color: #1abc9c;
-}
-
-.cg-colorfooter{
-    background-color: #3a546d;
-}
-
-.cg-piedipagina{
-    background-color: #2c3e50;
-}
-
-/**debug**/
-
-
 /**main**/
 .cg-icon{
     width: 30%;
@@ -62,5 +13,33 @@ button{
     background-color:#2c3e50;
 }
 
-/**main**/
+.cg-list{
+    list-style: none;
+}
+
+.cg-icon2{
+    height: 26px;
+    width: 26px;
+}
+
+.cg-text-color{
+    color: #1abc9c;
+}
+.cg-piedipagina{
+    background-color: #2c3e50;
+}
+.cg-colorfooter{
+    background-color: #3a546d;
+}
+.cg-bgmain{
+    background-color: #1abc9c;
+}
+.cg-colormaintop{
+    background-color: #1abc9c;
+}
+.cg-bgcolorheader{
+    background-color: #2c3e50;
+}
+
+/** fine/main**/
 
