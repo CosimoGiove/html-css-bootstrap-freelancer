@@ -18,8 +18,10 @@ button{
 }
 
 .cg-icon2{
-    height: 26px;
-    width: 26px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
 }
 
 .cg-text-color{
